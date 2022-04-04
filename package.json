@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "author": "shuruhatik",
+  "license": "CC BY-NC-ND 4.0",
+  "dependencies": {
+    "azkar": "^1.0.1",
+    "chalk-animation": "^1.6.0",
+    "console.image": "^1.0.2",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3",
+    "inquirer": "^8.2.2",
+    "nanospinner": "^1.0.0",
+    "quick.replit": "^1.0.3",
+    "st.db": "^4.0.7"
+  }
+}
