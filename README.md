@@ -1,3 +1,12 @@
+## Mushaf Bot Discord v1
+- بوت يحتوي علي أكتر من 5أنواع لمصحف
+- يوجد ازرار لتحكم في تقليب بين الصفحات الخاصة بالمصحف
+- يمكن لشخص ان يقوم بحفظ صفحة في مصحف نوع معين حيث ان عند اعاداة استخدام الامر سوف يقوم بجلب المصحف بالصفحةا لمحفوظة لديه
+- يمكننك من خلال البوت عمل رسالة ثابته في روم حيث ناس من خلاله ضغط علي زر برسالة وسوف يقوم بفتح مصحف خاص بشخص
+- بوت في الخير اتمنه تنشره وشكراً لكم
+
+## Youtube
+- [Shuruhatik - شروحاتك](https://www.youtube.com/c/ShuruhatikYT/)
 
 ## Contact
 **Any bug or suggestion !**
@@ -6,4 +15,4 @@
 <a href="https://dsc.gg/shuruhatik"><img src="https://invidget.switchblade.xyz/uGu2sCDZhv"></a>
 
 ## License 
-- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+- [ BSL-1.0 License](https://www.boost.org/LICENSE_1_0.txt)
