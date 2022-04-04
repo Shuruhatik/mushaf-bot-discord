@@ -15,4 +15,4 @@
 <a href="https://dsc.gg/shuruhatik"><img src="https://invidget.switchblade.xyz/uGu2sCDZhv"></a>
 
 ## License 
-- [ BSL-1.0 License](https://www.boost.org/LICENSE_1_0.txt)
+- [ BSL-1.0 License](./LICENSE)
